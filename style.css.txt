@@ -1,0 +1,26 @@
+body {
+   width: 300px;
+   padding: 20px;
+}
+
+.btn {
+   background-color: #fff685;
+   border-color: #0049B7;
+   color: #0049B7;
+   font-weight: bold;
+}
+
+.btn:hover {
+   background-color: #f75990;
+   border-color: #ff1d58;
+   color: #ff1d58;
+}
+
+.form-control {
+   border-color: #00DDFF;
+}
+
+.form-control:focus {
+   border-color: #0049B7;
+   box-shadow: 0 0 0 0.2rem rgba(0, 73, 183, 0.25);
+}

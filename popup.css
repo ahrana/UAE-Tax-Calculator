@@ -1,0 +1,26 @@
+body {
+  width: 200px;
+}
+
+.calculator {
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+label, input, button {
+  display: block;
+  margin: 5px 0;
+}
+
+button {
+  background-color: #0073e6;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 10px;
+}
